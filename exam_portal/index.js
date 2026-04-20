@@ -1,4 +1,4 @@
-// ── Login Page JS ────────────────────────────────────────────
+// ── index Page JS ────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function () {
 
   const form    = document.getElementById('loginForm');
